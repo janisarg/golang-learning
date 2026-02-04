@@ -1,10 +1,10 @@
 # golang-learning
 # Walk trough the [Go by Example](https://gobyexample.com/)
 
-* Hello World
-* Values
-* Variables
-* Constants
+* Hello World [x]
+* Values [x]
+* Variables [x]
+* Constants [x]
 * For
 * If/Else
 * Switch
