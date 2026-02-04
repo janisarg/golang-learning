@@ -3,14 +3,17 @@
 
 * Hello World [x]
 * Values [x]
+-----
 * Variables [x]
 * Constants [x]
-* For
-* If/Else
-* Switch
-* Arrays
-* Slices
-* Maps
+* For [x]
+* If/Else [x]
+* Switch [x]
+-----
+* Arrays []
+* Slices []
+* Maps []
+-----
 * Functions
 * Multiple Return Values
 * Variadic Functions
