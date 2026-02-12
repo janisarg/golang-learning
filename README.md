@@ -15,10 +15,10 @@
 * Maps [x]
 -----
 * Functions [x]
-* Multiple Return Values
-* Variadic Functions
-* Closures
-* Recursion
+* Multiple Return Values [x]
+* Variadic Functions [x]
+* Closures[]
+* Recursion[]
 -----
 * Range over Built-in Types
 * Pointers
