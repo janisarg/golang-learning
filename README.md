@@ -10,15 +10,16 @@
 * If/Else [x]
 * Switch [x]
 -----
-* Arrays []
-* Slices []
-* Maps []
+* Arrays [x]
+* Slices [x]
+* Maps [x]
 -----
-* Functions
+* Functions [x]
 * Multiple Return Values
 * Variadic Functions
 * Closures
 * Recursion
+-----
 * Range over Built-in Types
 * Pointers
 * Strings and Runes
