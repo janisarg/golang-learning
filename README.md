@@ -17,13 +17,14 @@
 * Functions [x]
 * Multiple Return Values [x]
 * Variadic Functions [x]
-* Closures[]
-* Recursion[]
+* Closures[x]
+* Recursion[x]
 -----
-* Range over Built-in Types
-* Pointers
+* Range over Built-in Types [x]
+* Pointers [x]
 * Strings and Runes
 * Structs
+-----
 * Methods
 * Interfaces
 * Enums
