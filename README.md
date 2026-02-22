@@ -22,24 +22,24 @@
 -----
 * Range over Built-in Types [x]
 * Pointers [x]
-* Strings and Runes
-* Structs
+* Strings and Runes [x]
+* Structs [x]
 -----
-* Methods
-* Interfaces
-* Enums
-* Struct Embedding
-* Generics
-* Range over Iterators
-* Errors
-* Custom Errors
-* Goroutines
-* Channels
-* Channel Buffering
-* Channel Synchronization
-* Channel Directions
-* Select
-* Timeouts
+* Methods [x]
+* Interfaces [x]
+* Enums [x]
+* Struct Embedding []
+* Generics []
+* Range over Iterators []
+* Errors []
+* Custom Errors []
+* Goroutines []
+* Channels []
+* Channel Buffering []
+* Channel Synchronization []
+* Channel Directions v
+* Select []
+* Timeouts []
 * Non-Blocking Channel Operations
 * Closing Channels
 * Range over Channels
