@@ -28,8 +28,9 @@
 * Methods [x]
 * Interfaces [x]
 * Enums [x]
-* Struct Embedding []
-* Generics []
+* Struct Embedding [x]
+* Generics [x]
+* ----
 * Range over Iterators []
 * Errors []
 * Custom Errors []
